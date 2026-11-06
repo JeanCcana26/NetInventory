@@ -1,0 +1,6 @@
+id,hostname,type,ip_address,location,status
+1,ROUTER-LIMA-01,Router,192.168.1.1,Oficina Principal,active
+2,SWITCH-LIMA-01,Switch,192.168.1.2,Oficina Principal,active
+3,ROUTER-LIMA-02,Router,192.168.1.3,Sucursal,inactive
+4,SWITCH-LIMA-02,Switch,192.168.1.4,Sucursal,active
+5,SERVER-LIMA-01,Server,192.168.1.10,Centro de Datos,maintenance
