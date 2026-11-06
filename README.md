@@ -65,8 +65,8 @@ netinventory/
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
-cd netinventory
+git clone https://github.com/JeanCcana26/NetInventory.git
+cd NetInventory
 ```
 
 Crear entorno virtual:
