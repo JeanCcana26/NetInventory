@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <organization>NetInventory</organization>
+    <devices>
+        <device>
+            <id>1</id>
+            <hostname>ROUTER-LIMA-01</hostname>
+            <type>Router</type>
+            <ip_address>192.168.1.1</ip_address>
+            <location>Oficina Principal</location>
+            <status>active</status>
+        </device>
+        <device>
+            <id>2</id>
+            <hostname>SWITCH-LIMA-01</hostname>
+            <type>Switch</type>
+            <ip_address>192.168.1.2</ip_address>
+            <location>Oficina Principal</location>
+            <status>active</status>
+        </device>
+        <device>
+            <id>3</id>
+            <hostname>ROUTER-LIMA-02</hostname>
+            <type>Router</type>
+            <ip_address>192.168.1.3</ip_address>
+            <location>Sucursal</location>
+            <status>inactive</status>
+        </device>
+        <device>
+            <id>4</id>
+            <hostname>SWITCH-LIMA-02</hostname>
+            <type>Switch</type>
+            <ip_address>192.168.1.4</ip_address>
+            <location>Sucursal</location>
+            <status>active</status>
+        </device>
+        <device>
+            <id>5</id>
+            <hostname>SERVER-LIMA-01</hostname>
+            <type>Server</type>
+            <ip_address>192.168.1.10</ip_address>
+            <location>Centro de Datos</location>
+            <status>maintenance</status>
+        </device>
+    </devices>
+</inventory>
